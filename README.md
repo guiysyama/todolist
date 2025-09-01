@@ -42,7 +42,7 @@ Siga os passos abaixo para rodar o projeto em sua máquina local.
 1. Clone este repositório para a sua máquina:
 
 *Bash*
->git clone https://github.com/[guiysyama]/[todolist].git
+>git clone https://github.com/guiysyama/todolist.git
 
 2. Navegue até o diretório do projeto:
 
